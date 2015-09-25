@@ -1,0 +1,1 @@
+An open source TED Talk(http://www.ted.com) android application.
